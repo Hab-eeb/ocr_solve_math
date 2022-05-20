@@ -2,7 +2,7 @@
 This projects aims to mark handwritten solved maths equations by reading each digit and sign and then verifying each line against a user's input for the correct equation 
 
 
-So far i've been able to succesfully isolate the individual lines and get the handwritten digits and signs converted to strings and iv'e deployed it using fast api through which an image can be uploaded and an output showing the amount of lines and characters in each line will be given.
+So far i've been able to succesfully isolate the individual lines and get the handwritten digits and signs converted to strings and i've deployed it using fast api through which an image can be uploaded and an output showing the amount of lines and characters in each line will be given.
 
 
 
